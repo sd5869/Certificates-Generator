@@ -1,6 +1,6 @@
 # Certificates Generator
 This is a project that can be used to generate the certificates for multiple persons with given blank certificate template. 
-The Limitation is that the certificate file must be an image of .jpg or .png format. 
+The Limitation is that the certificate file must be an image of .jpg or .png format and the starting (x,y) coordinates to write data must be chosen accurately.
 For any bugs or edits please E-mail me at sd5869@gmail.com
 
 ##Requirments
