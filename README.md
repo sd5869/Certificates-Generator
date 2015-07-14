@@ -5,6 +5,7 @@ For any bugs or edits please E-mail me at sd5869@gmail.com
 
 ##Requirments
 A system with python3 and with following modules installed:
+
 1. pillow
 2. openpyxl
 
