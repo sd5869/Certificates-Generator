@@ -15,6 +15,9 @@ This is the main Script which you need to run and then you need to provide with 
 ##data.xlsx
 This is the Excel Spreadsheet in which all the data must be present and name of Sheet must be Sheet1.
 
+##micross.ttf
+This is the default font that is used if the user Enters NULL in the Script.
+
 ##certificates Directory
 This is the directory in which all the generated certificates will showup.
 
