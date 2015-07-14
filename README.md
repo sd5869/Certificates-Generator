@@ -5,8 +5,8 @@ For any bugs or edits please E-mail me at sd5869@gmail.com
 
 ##Requirments
 A system with python3 and with following modules installed:
--pillow
--openpyxl
+1. pillow
+2. openpyxl
 
 ##Run.py
 This is the main Script which you need to run and then you need to provide with all details as asked.
@@ -17,5 +17,5 @@ This is the Excel Spreadsheet in which all the data must be present and name of 
 ##certificates Directory
 This is the directory in which all the generated certificates will showup.
 
-##Example
-To see this project working go to the Example directory.
+##Example Directory
+To see this project working go to the this directory.
