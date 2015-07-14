@@ -1,4 +1,4 @@
-# Certificates-Generator
+# Certificates Generator
 This is a project that can be used to generate the certificates for multiple persons with given blank certificate template. 
 The Limitation is that the certificate file must be an image of .jpg or .png format. 
 For any bugs or edits please E-mail me at sd5869@gmail.com
