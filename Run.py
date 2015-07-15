@@ -37,14 +37,14 @@ def get_data(Start,End):
 #########################################################
 
 def generate_certi(img,data,parameter_info):
-        for info in data:
+        for i in range(len(data)):
                 im = Image.open(img)
-                for x in range(len(info)):
+                for x in range(len(data[i])):
                         [coordinates,font,size,color]=parameter_info[x]
                         pilfont = ImageFont.truetype(font,size)
                         draw = ImageDraw.Draw(im)
-                        draw.text(coordinates,info[x],color,font=pilfont)
-                im.save("certificates/"+info[0]+".png")
+                        draw.text(coordinates,data[i][x],color,font=pilfont)
+                im.save("certificates/"+data[i][0]+str(i)+".png")
         print("Successfully generated all certificates")
 
 #####################################################################################################
