@@ -23,3 +23,6 @@ This is the directory in which all the generated certificates will showup.
 
 ##Example Directory
 To see this project working go to the this directory.
+
+## Exe Support
+Added the .exe support now go to dist folder and open run.exe and write data in data.xlsx file in that directory.
